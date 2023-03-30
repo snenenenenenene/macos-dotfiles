@@ -13,3 +13,6 @@ stetic
 xbuild
 yarn
 .DS_Store
+
+zsh/.zcomp*
+zsh/.zsh_history
